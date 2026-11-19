@@ -40,12 +40,12 @@ Run the Windows NASM executable in your Windows terminal. After assembly, run `B
 
 ## Run in DOSBox
 
-Place `BONUS.com` in a folder such as `C:\ColorConnect`. Open DOSBox and enter these commands one at a time:
+Place `BONUS.com` in a folder such as `C:\Color-Connect-Game`. Open DOSBox and enter these commands one at a time:
 
 ```dos
-mount c "C:\ColorConnect"
+mount c "C:\Color-Connect-Game"
 c:
-BONUS.com
+color.com
 ```
 
 Replace the example path with your actual game folder. If DOSBox drive C is already mounted to that folder, skip the mount command.
