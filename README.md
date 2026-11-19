@@ -138,4 +138,7 @@ The source has been assembled successfully with NASM for the 8086 target, with w
 
 ## Gameplay Video
 
-[Watch Gameplay Demo](Videos/gameplay.mp4)
+
+https://github.com/user-attachments/assets/2d0e377d-eaeb-4e59-a488-0ac0b6919727
+
+
