@@ -116,3 +116,26 @@ The source includes `[cpu 8086]` to restrict instructions to the 8086 and `[org 
 ## Validation
 
 The source has been assembled successfully with NASM for the 8086 target, with warnings treated as errors. Static checks covered puzzle solutions, drawing coordinates, timer arithmetic, and game-state transitions. Interactive DOSBox gameplay has not yet been verified as part of these checks.
+
+
+## Gameplay Preview
+
+![Color Connect Game](ScreenShots/gameStart.png)
+
+## Gameplay Screenshots
+
+### Level Selection
+![Levels](ScreenShots/levels.png)
+
+### Level Completed
+![Level Complete](ScreenShots/levelComplete.png)
+
+### Winning Screen
+![Win](ScreenShots/Win.png)
+
+### Time Out
+![Time Out](ScreenShots/timeOut.png)
+
+## Gameplay Video
+
+[Watch Gameplay Demo](Videos/gameplay.mp4)
